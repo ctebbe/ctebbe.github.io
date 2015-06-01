@@ -43,8 +43,7 @@
       <footer class="inner">
         <div id="left_col">
             <h3 id="footer_title">Contact</h3>
-            <img src="images/blacktocat.png" width="30" height="30" alt="github">
-            <img src="images/linkedin-trans.png" width="30" height="30" alt="linkedin">
+            <img src="images/blacktocat.png" width="50" height="50" alt="github">
         </div>
         <div id="right_col">
             <a href="resume.pdf"><div class="button">resume.pdf</div></a>
